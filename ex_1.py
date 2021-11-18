@@ -4,3 +4,9 @@ a=[]
 for i in range(10):
     a.append(i)
 print(a)
+
+
+b=[]
+for i in range(20):
+    b.append(i)
+print(b)
