@@ -27,3 +27,9 @@ for i in range(50):
 print(e)
 
 print("Hi")
+
+import numpy as np
+
+arr = np.array([99, 22, 73, 64, 154])
+
+print(arr)
