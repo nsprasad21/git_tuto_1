@@ -15,3 +15,8 @@ c=[]
 for i in range(30):
     c.append(i)
 print(c)
+
+d=[]
+for i in range(5):
+    d.append(i)
+print(d)
